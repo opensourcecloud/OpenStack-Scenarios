@@ -296,3 +296,5 @@ Web Services
 
   场景实例：Vodafone使用华为的OpenStack
 Cascading技术实现跨地域多站点的资源管理，支持全网多厂商、全局多租户以及标准的API。天河云采用基于OpenStack的云计算解决方案，面向政务、医疗、教育、电商及公共安全等多领域，打造吕梁、太原、北京、盐城等多中心统一管控的公有和私用云平台，全面支持商用数据库Oracle RAC，GBase，大数据Hadoop，Spark等企业级应用。
+
+9 安全类场景
